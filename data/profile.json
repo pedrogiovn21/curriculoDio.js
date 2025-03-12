@@ -1,0 +1,77 @@
+{
+    "name": "Pedro Giovane",
+    "photo": "https://avatars.githubusercontent.com/u/157719956?v=4",
+    "job": "JavaScript Developer",
+    "location": "Catolé do Rocha - PB",
+    "phone": "(83) 99993-4796",
+    "email": "pedrogiovanepereira@gmail.com",
+    "skills": {
+      "hardSkills": [
+        {
+          "nome": "Android",
+          "logo": "TODO"
+        },
+        {
+          "nome": "Java",
+          "logo": "TODO"
+        },
+        {
+          "nome": "Kotlin",
+          "logo": "TODO"
+        }
+      ],
+      "softSkills": [
+        "Comunicação",
+        "Empatia",
+        "Liderança",
+        "Trabalho em equipe"
+      ]
+    },
+    "idiomas": [
+      {
+        "nome": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "nome": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "nome": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "portfolio": [
+      {
+        "nome": "ALURA FOKUS",
+        "gitHub": "https://github.com/pedrogiovn21/New-AluraFokus"
+      },
+      {
+        "nome": "WORLDWIDE",
+        "gitHub": "https://github.com/pedrogiovn21/Worldwide"
+      },
+      {
+        "nome": "POKEDEX",
+        "gitHub": "https://github.com/pedrogiovn21/pokedex-JS"
+      },
+      {
+        "nome": "ALURA BOOKS",
+        "gitHub": "https://github.com/pedrogiovn21/AluraBooksJs"
+      },
+      {
+        "nome": "ALURA PLUS",
+        "gitHub": "https://github.com/pedrogiovn21/Alura-plus"
+      }
+    ],
+    "experiencias": [
+      {
+        "nome": "JavaScript Developer ",
+        "descricao": "Lorem ipsum dolor sit amet. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste.",
+        "instituicao": "Digital Innovation One (DIO)",
+        "periodo": {
+          "inicio": "02/2024",
+          "fim": "Atualmente"
+        }
+      }
+    ]
+  }
